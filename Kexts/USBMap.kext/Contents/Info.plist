@@ -38,7 +38,7 @@
 				<true/>
 				<key>port-count</key>
 				<data>
-				CQAAAA==
+				FQAAAA==
 				</data>
 				<key>ports</key>
 				<dict>
@@ -103,6 +103,15 @@
 						<key>port</key>
 						<data>
 						CQAAAA==
+						</data>
+					</dict>
+					<key>SS05</key>
+					<dict>
+						<key>UsbConnector</key>
+						<integer>3</integer>
+						<key>port</key>
+						<data>
+						FQAAAA==
 						</data>
 					</dict>
 				</dict>
